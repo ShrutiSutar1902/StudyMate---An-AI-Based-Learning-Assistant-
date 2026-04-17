@@ -134,6 +134,8 @@ Test directly:
 http://127.0.0.1:8001/recommend?topic=python+for+beginners
 http://127.0.0.1:8001/docs   ← Swagger UI
 ```
+<img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/bd0859ce-2465-4525-9993-e46161d8ca44" />
+
 
 ---
 
